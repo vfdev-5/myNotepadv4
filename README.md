@@ -7,3 +7,4 @@ https://developer.android.com/training/notepad/index.html
 https://developer.android.com/training/notepad/codelab/NotepadCodeLab.zip
 
 Application manages its content using local DB. Notes contain title and body.
+Only changes are in activities navigation and DB usage.
