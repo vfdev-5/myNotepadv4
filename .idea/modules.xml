@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NotePad.iml" filepath="$PROJECT_DIR$/NotePad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notepadv4/Notepadv4.iml" filepath="$PROJECT_DIR$/Notepadv4/Notepadv4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myNotePadv4.iml" filepath="$PROJECT_DIR$/myNotePadv4.iml" />
+    </modules>
+  </component>
+</project>
+
